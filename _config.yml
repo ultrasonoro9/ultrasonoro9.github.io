@@ -25,10 +25,11 @@ description: Virtual Immortality
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+    - AVIXA Member Search: "https://www.avixa.org/about-the-avixa-directory/membersearch"
+    - Projection Calculator: "http://www.projectorcentral.com/projection-calculator-pro.cfm"
+    - Hacker Typer: "https://hackertyper.net/"
+    - Crypto Wallet Generator: "https://coinb.in/#settings"
+  Author's home: "http://reddit.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
