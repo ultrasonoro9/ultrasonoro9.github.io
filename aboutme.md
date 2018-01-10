@@ -6,10 +6,11 @@ subtitle: Why you'd want to work with me
 
 I have the following qualities:
 
-- Over twenty years of AV and Video Experience
-- Over ten years of Video Conferencing Management and Deployment Experience
-- I take pride in my work and am constantly learning
+- Over twenty years of Audio and Video Experience
+- Over ten years of Video Conferencing Experience
+- I take pride in my work and am constantly learning new things
 - I'm friendly and easy to work with
+- I am honest
 
 What else do you need?
 
@@ -22,5 +23,3 @@ What else do you need?
 - 2013 - 2015 U.S. Department of Veterans Affairs, Video Conferencing Engineer
 - 2016 - 2017 BAE Systems, Video Services Engineer
 - 2017 - Now  NOAA, Audio Visual Engineer
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
