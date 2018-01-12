@@ -6,11 +6,13 @@ subtitle: Why you'd want to work with me
 
 I have the following qualities:
 
-- Over twenty years of Audio and Video Experience
-- Over ten years of Video Conferencing Experience
-- I take pride in my work and am constantly learning new things
+- Over twenty years of Audio and Video experience
+- Over ten years of Video Conferencing experience
+- I take pride in my work
 - I'm friendly and easy to work with
-- I am honest
+- AVIXA member - CTS-I certification up to date
+- I learn new concepts and systems quickly
+- I do not rest on my laurels and am constandly learning new things 
 
 What else do you need?
 
